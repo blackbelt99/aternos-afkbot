@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"Foreaglesmp.aternos.me",
+	"port": "13679",
+	"name": "PTKBOT"
 }
